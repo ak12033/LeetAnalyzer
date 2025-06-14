@@ -117,6 +117,9 @@ h1 {
     text-align: center;
     transition: transform 0.3s ease;
 }
+.card p{
+    padding-top: 10px;
+}
 
 .card:hover {
     transform: translateY(-5px);
